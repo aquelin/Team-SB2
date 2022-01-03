@@ -25,7 +25,7 @@ Delivrable Expert | Arnaud Quelin
 # TODO List
 
 - Add descriptions of each function in *.pynb* notebook
-- Add cleaned versions of the autoencoder and similarity tree to the *.pynb* notebook
+- Add cleaned versions of the autoencoder and similarity tree to the *.pynb* notebook  -> to
 - Clean *main.py* file and use HiCtoolbox functions
 - Add comments to every functions in *HiCtoolbox.py* file
 - Make the similarity tree inside the *HiCtoolbox.py* file
